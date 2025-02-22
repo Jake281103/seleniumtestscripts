@@ -1,0 +1,145 @@
+Test Run Started.
+
+Test Run Started.
+
+Running all test scripts...
+Running test_register_fail1.py...
+2025-02-21 10:27:21 | test_register_fail1.py | Failure | Test Time: 106.49s
+Running test_register_fail2.py...
+2025-02-21 10:27:24 | test_register_fail2.py | Failure | Test Time: 3.0s
+Running test_register_fail3.py...
+Test Run Started.
+
+Running tests from test_register_fail1.py to test_register_fail3.py...
+Running test_register_fail1.py...
+2025-02-21 10:29:24 | test_register_fail1.py | Success | Test Time: 8.2s
+Running test_register_fail2.py...
+2025-02-21 10:29:29 | test_register_fail2.py | Success | Test Time: 4.55s
+Running test_register_fail3.py...
+2025-02-21 10:29:32 | test_register_fail3.py | Success | Test Time: 2.86s
+Total Test Time: 15.61s
+
+Test Run Completed. Total Time: 15.61s
+
+Total Tests Run: 3
+Successful Tests: 3
+Failed Tests: 0
+
+Successful Tests:
+  - test_register_fail1.py
+  - test_register_fail2.py
+  - test_register_fail3.py
+Test Run Started.
+
+Running all test scripts...
+Running test_register_fail1.py...
+2025-02-21 10:30:37 | test_register_fail1.py | Success | Test Time: 7.02s
+Running test_register_fail2.py...
+2025-02-21 10:30:43 | test_register_fail2.py | Success | Test Time: 6.15s
+Running test_register_fail3.py...
+2025-02-21 10:30:50 | test_register_fail3.py | Success | Test Time: 7.56s
+Running test_register_success1.py...
+2025-02-21 10:30:57 | test_register_success1.py | Success | Test Time: 6.38s
+Running test_register_success2.py...
+2025-02-21 10:31:09 | test_register_success2.py | Success | Test Time: 11.82s
+Running test_login_fail.py...
+2025-02-21 10:31:15 | test_login_fail.py | Success | Test Time: 6.44s
+Running test_login_success.py...
+2025-02-21 10:31:27 | test_login_success.py | Success | Test Time: 12.28s
+Running test_reset_password_fail.py...
+2025-02-21 10:31:32 | test_reset_password_fail.py | Success | Test Time: 4.94s
+Running test_reset_password_success.py...
+2025-02-21 10:31:38 | test_reset_password_success.py | Success | Test Time: 5.94s
+Total Test Time: 71.4s
+
+Test Run Completed. Total Time: 71.4s
+
+Total Tests Run: 9
+Successful Tests: 9
+Failed Tests: 0
+
+Successful Tests:
+  - test_register_fail1.py
+  - test_register_fail2.py
+  - test_register_fail3.py
+  - test_register_success1.py
+  - test_register_success2.py
+  - test_login_fail.py
+  - test_login_success.py
+  - test_reset_password_fail.py
+  - test_reset_password_success.py
+Test Run Started.
+
+Running test_register_fail1.py...
+2025-02-21 13:32:23 | test_register_fail1.py | Success | Test Time: 20.39s
+
+Test Run Completed. Total Time: 64.25s
+
+Total Tests Run: 1
+Successful Tests: 1
+Failed Tests: 0
+
+Successful Tests:
+  - test_register_fail1.py
+Test Run Started.
+
+Running tests from test_register_fail1.py to test_register_fail3.py...
+Running test_register_fail1.py...
+2025-02-21 13:33:45 | test_register_fail1.py | Success | Test Time: 24.19s
+Running test_register_fail2.py...
+2025-02-21 13:34:14 | test_register_fail2.py | Success | Test Time: 28.41s
+Running test_register_fail3.py...
+2025-02-21 13:34:27 | test_register_fail3.py | Success | Test Time: 12.75s
+Total Test Time: 65.34s
+
+Test Run Completed. Total Time: 65.34s
+
+Total Tests Run: 3
+Successful Tests: 3
+Failed Tests: 0
+
+Successful Tests:
+  - test_register_fail1.py
+  - test_register_fail2.py
+  - test_register_fail3.py
+Test Run Started.
+
+Running all test scripts...
+Running test_register_fail1.py...
+2025-02-21 13:35:15 | test_register_fail1.py | Success | Test Time: 15.88s
+Running test_register_fail2.py...
+2025-02-21 13:35:41 | test_register_fail2.py | Success | Test Time: 25.72s
+Running test_register_fail3.py...
+2025-02-21 13:35:57 | test_register_fail3.py | Success | Test Time: 15.89s
+Running test_register_success1.py...
+2025-02-21 13:36:16 | test_register_success1.py | Success | Test Time: 19.12s
+Running test_register_success2.py...
+2025-02-21 13:36:59 | test_register_success2.py | Success | Test Time: 43.47s
+Running test_login_fail.py...
+2025-02-21 13:37:25 | test_login_fail.py | Success | Test Time: 25.13s
+Running test_login_success.py...
+2025-02-21 13:38:03 | test_login_success.py | Failure | Test Time: 38.82s
+Running test_reset_password_fail.py...
+2025-02-21 13:38:28 | test_reset_password_fail.py | Success | Test Time: 24.75s
+Running test_reset_password_success.py...
+2025-02-21 13:38:54 | test_reset_password_success.py | Failure | Test Time: 25.54s
+Total Test Time: 241.91s
+
+Test Run Completed. Total Time: 241.91s
+
+Total Tests Run: 9
+Successful Tests: 7
+Failed Tests: 2
+
+Successful Tests:
+  - test_register_fail1.py
+  - test_register_fail2.py
+  - test_register_fail3.py
+  - test_register_success1.py
+  - test_register_success2.py
+  - test_login_fail.py
+  - test_reset_password_fail.py
+
+Failed Tests:
+  - test_login_success.py
+  - test_reset_password_success.py
